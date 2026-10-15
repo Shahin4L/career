@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en-IE">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>Md Shahin Alam | Operations & Supply Chain Professional, Open to Ireland</title>
+<meta name="description" content="Operations professional with 8+ years in courier, hub, fulfilment and supply chain operations. Available to relocate to Ireland; employment permit sponsorship required."/>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=DM+Serif+Display&display=swap" rel="stylesheet"/>
+<style>
+:root{--ink:#14213d;--mut:#5b6780;--line:#dfe6e3;--bg:#f7f9f8;--card:#fff;--green:#17724f;--green-soft:#e3f2eb;--gold:#c9962b}
+*{box-sizing:border-box}html{scroll-behavior:smooth;scroll-padding-top:80px}
+body{margin:0;font:400 1rem/1.65 "DM Sans",system-ui,sans-serif;color:var(--ink);background:var(--bg)}
+a{color:inherit}h1,h2{font-family:"DM Serif Display",Georgia,serif;font-weight:400;letter-spacing:-.01em;margin:0}
+.wrap{width:min(1080px,calc(100% - 40px));margin-inline:auto}
+header{position:sticky;top:0;z-index:9;background:#f7f9f8ee;backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
+.nav{display:flex;align-items:center;justify-content:space-between;min-height:64px;gap:16px}
+.nav b{font-weight:700}.nav nav{display:flex;gap:20px;font-size:.9rem;font-weight:500}
+.nav nav a{text-decoration:none;color:var(--mut)}.nav nav a:hover{color:var(--green)}
+.btn{display:inline-block;padding:12px 20px;border-radius:10px;font-weight:700;text-decoration:none;border:1.5px solid var(--green);transition:background .2s}
+.btn.p{background:var(--green);color:#fff}.btn.p:hover{background:#115a3e}.btn.s{color:var(--green)}.btn.s:hover{background:var(--green-soft)}
+.hero{padding:72px 0 56px;display:grid;grid-template-columns:1.25fr .75fr;gap:48px;align-items:start}
+h1{font-size:clamp(2.3rem,5vw,3.6rem);line-height:1.08;margin-bottom:18px}
+.lead{font-size:1.1rem;color:var(--mut);max-width:60ch;margin:0 0 26px}
+.acts{display:flex;flex-wrap:wrap;gap:12px}
+.elig{background:var(--card);border:1px solid var(--line);border-left:4px solid var(--green);border-radius:14px;padding:22px}
+.elig h3{margin:0 0 12px;font-size:1rem}.elig dl{margin:0;display:grid;grid-template-columns:auto 1fr;gap:8px 16px;font-size:.92rem}
+.elig dt{color:var(--mut)}.elig dd{margin:0;font-weight:500}
+section{padding:56px 0;border-top:1px solid var(--line)}
+h2{font-size:clamp(1.7rem,3vw,2.3rem);margin-bottom:8px}.sub{color:var(--mut);margin:0 0 28px;max-width:62ch}
+.tabs{display:inline-flex;background:#e9efec;border-radius:12px;padding:4px;margin-bottom:22px;gap:4px}
+.tabs button{border:0;background:none;padding:10px 18px;border-radius:9px;font:700 .92rem "DM Sans";color:var(--mut);cursor:pointer}
+.tabs button[aria-selected=true]{background:#fff;color:var(--green);box-shadow:0 1px 4px #14213d1f}
+.panel{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:28px}
+.panel p{margin:0 0 16px;max-width:75ch}.panel ul{margin:0;padding-left:20px}.panel li{margin-bottom:8px}
+.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:14px}
+.stat{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:22px}
+.stat strong{display:block;font:400 2.5rem/1 "DM Serif Display",serif;color:var(--green)}.stat span{font-size:.88rem;color:var(--mut)}
+.job{display:grid;grid-template-columns:170px 1fr;gap:8px 28px;padding:22px 0;border-bottom:1px solid var(--line)}
+.job:last-child{border:0}.when{color:var(--mut);font-size:.88rem}.job h3{margin:0;font-size:1.05rem}.job em{color:var(--green);font-style:normal;font-weight:500;font-size:.92rem}
+.job ul{margin:8px 0 0;padding-left:18px}.job li{margin-bottom:5px;font-size:.95rem}
+.cols{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+.box{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:22px}.box h3{margin:0 0 8px;font-size:1rem}.box p{margin:0;color:var(--mut);font-size:.93rem}
+.contact{background:var(--ink);color:#fff;border-radius:20px;padding:40px;display:flex;flex-wrap:wrap;gap:24px;justify-content:space-between;align-items:center}
+.contact h2{color:#fff}.contact p{color:#c3cbe0;margin:0;max-width:50ch}.contact .btn.s{color:#fff;border-color:#ffffff66}.contact .btn.s:hover{background:#ffffff1a}
+footer{padding:28px 0 40px;color:var(--mut);font-size:.85rem}
+:focus-visible{outline:3px solid var(--gold);outline-offset:2px}
+@media(max-width:820px){.hero,.cols{grid-template-columns:1fr}.stats{grid-template-columns:1fr 1fr}.job{grid-template-columns:1fr}.nav nav{display:none}}
+</style>
+</head>
+<body>
+<header><div class="wrap nav"><b>Md Shahin Alam</b><nav><a href="#focus">Role focus</a><a href="#results">Results</a><a href="#experience">Experience</a><a href="#skills">Skills</a><a href="#contact">Contact</a></nav><a class="btn p" href="#contact">Get in touch</a></div></header>
+
+<main>
+<div class="wrap hero">
+<div>
+<h1>Hub and fulfilment operations, run accurately at scale.</h1>
+<p class="lead">8+ years in courier, sorting, inventory and returns operations in Bangladesh, leading teams of up to 190+ staff and 220,000+ parcels a day. Now looking for an operations or supply chain role in Ireland.</p>
+<div class="acts"><a class="btn p" href="Shahin_Alam_CV_A_Courier_Hub_3PL.pdf" download>Download CV: Courier, Hub &amp; 3PL</a><a class="btn s" href="Shahin_Alam_CV_B_Warehouse_SupplyChain.pdf" download>Download CV: Warehouse &amp; Supply Chain</a></div>
+</div>
+<aside class="elig" aria-label="Work eligibility"><h3>Relocation and eligibility</h3>
+<dl><dt>Based in</dt><dd>Dhaka, Bangladesh</dd><dt>Relocation</dt><dd>Available to relocate to Ireland</dd><dt>Permit</dt><dd>Employment permit sponsorship required</dd><dt>Target sectors</dt><dd>E-commerce, 3PL, courier and hub, warehouse, supply chain</dd><dt>English</dt><dd>Reading and writing B2, listening and speaking B1</dd></dl></aside>
+</div>
+
+<section id="focus"><div class="wrap"><h2>Choose the role you are hiring for</h2><p class="sub">The same experience, framed for two kinds of role.</p>
+<div class="tabs" role="tablist"><button role="tab" aria-selected="true" aria-controls="p1" id="t1">Courier, hub &amp; 3PL</button><button role="tab" aria-selected="false" aria-controls="p2" id="t2">Warehouse &amp; supply chain</button></div>
+<div class="panel" id="p1" role="tabpanel" aria-labelledby="t1"><p>Ran zonal hub operations at 97%+ SLA and SOP compliance, coordinating rider networks, fleet allocation and dispatch. Currently lead 11 operational functions and Sub-Sort sites in five regional locations.</p><ul><li>220,000+ parcels a day with 180+ staff (Pathao)</li><li>70,000+ parcels a day with 190+ staff (Carrybee)</li><li>Turnaround time reduced by 30% through semi-automation</li><li>Sorting and handling errors reduced by 40%</li></ul></div>
+<div class="panel" id="p2" role="tabpanel" aria-labelledby="t2" hidden><p>Strong in inventory control, returns validation, reconciliation and issue resolution, backed by a PGD in Logistics &amp; Supply Chain Management (demand and inventory planning, procurement, supply networks).</p><ul><li>Handling and counting errors reduced by 40% with a CCTV-verified basket process</li><li>Operating cost reduced by 15% through manpower optimisation and item control</li><li>Return validation moved from manual to automated with auto task assignment</li><li>Own e-commerce business experience (2019)</li></ul></div>
+</div></section>
+
+<section id="results"><div class="wrap"><h2>Results</h2><p class="sub">Delivered at Carrybee Express Ltd., Dhaka.</p>
+<div class="stats"><div class="stat"><strong>30%</strong><span>lower turnaround time</span></div><div class="stat"><strong>40%</strong><span>fewer handling errors</span></div><div class="stat"><strong>15%</strong><span>lower operating cost</span></div><div class="stat"><strong>7</strong><span>executives and senior associates trained</span></div></div></div></section>
+
+<section id="experience"><div class="wrap"><h2>Experience</h2><p class="sub">Carrybee and Pathao are leading courier and logistics operators in Bangladesh.</p>
+<div class="job"><div class="when">Jan 2026 – Present</div><div><h3>Assistant Manager, Operations</h3><em>Carrybee Express Ltd. (a concern of US-Bangla Airlines)</em><ul><li>Lead 190+ staff through team leads across Sort, Inbound, Pickup, Returns, Return Validation, Investigation &amp; Reconciliation, Issue Resolution, Reprocessing, Data Entry, Inventory and Sub-Sort.</li><li>Oversee Sub-Sort at Bhanga, Sirajganj, Cumilla, Bhairab and Chattogram.</li><li>Introduced put-to-number (PTN) process, 2-click gate-pass printing and AI-assisted data entry.</li></ul></div></div>
+<div class="job"><div class="when">Nov 2024 – Dec 2025</div><div><h3>Senior Executive, Operations</h3><em>Carrybee Express Ltd.</em><ul><li>Analysed bottlenecks, ran new projects from planning to field execution and led peak-season hiring.</li></ul></div></div>
+<div class="job"><div class="when">Sep 2019 – Oct 2024</div><div><h3>Senior Operations Associate / Operations Associate</h3><em>Pathao Ltd., Courier Operations</em><ul><li>Supervised 180+ employees and zonal hub operations processing 220,000+ parcels daily.</li><li>Managed rider networks, fleet allocation and dispatch at 97%+ SLA and SOP compliance.</li></ul></div></div>
+<div class="job"><div class="when">2017 – 2019</div><div><h3>Earlier roles</h3><em>Concrete Technology; Office Assistant; self-employed e-commerce</em><ul><li>Service Engineer (PLC and machinery maintenance), legal and press documentation, and an independent e-commerce business (Mar – Aug 2019).</li></ul></div></div>
+</div></section>
+
+<section id="skills"><div class="wrap"><h2>Skills and education</h2><p class="sub">&nbsp;</p>
+<div class="cols"><div class="box"><h3>Operations</h3><p>SLA/SOP compliance, Lean methodologies, inventory control, process flow design, returns, reconciliation, team leadership.</p></div>
+<div class="box"><h3>Tools</h3><p>Advanced Excel, Word, PowerPoint, Google Workspace, barcode/QR systems, AI tools for reporting, AutoCAD, PLC and HMI.</p></div>
+<div class="box"><h3>Education</h3><p>PGD in Logistics &amp; Supply Chain Management (2023); BSc in Electrical &amp; Electronic Engineering (2021).</p></div></div></div></section>
+
+<section id="contact"><div class="wrap"><div class="contact"><div><h2>Hiring in Ireland?</h2><p>Send the job description and I will reply with the CV version that fits the role.</p></div>
+<div class="acts"><a class="btn p" href="mailto:shahin4l.bd@gmail.com">Email me</a><a class="btn s" href="https://www.linkedin.com/in/shahin4l" rel="noopener">LinkedIn</a><a class="btn s" href="https://wa.me/8801772222668" rel="noopener">WhatsApp</a></div></div></div></section>
+</main>
+<footer><div class="wrap">Md Shahin Alam · Dhaka, Bangladesh · References available on request</div></footer>
+<script>
+(function(){var t=[document.getElementById('t1'),document.getElementById('t2')],p=[document.getElementById('p1'),document.getElementById('p2')];
+t.forEach(function(b,i){b.addEventListener('click',function(){t.forEach(function(x,j){x.setAttribute('aria-selected',i===j);p[j].hidden=i!==j})})})})();
+</script>
+</body>
+</html>
